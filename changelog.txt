@@ -1,0 +1,6 @@
+- Corrected voltage supervisor footprint 
+- Relay footprint was mirrored in r1. Now it is fixed.
+- Trimpot footprint was corrected.
+- Moved components around to make room for 2-pos connector.
+
+
